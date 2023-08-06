@@ -1,0 +1,12 @@
+body{
+    overflow-x:hidden;
+    overflow-y:hidden;
+    /* height:1000px;
+    width:1300px; */
+    background-image:linear-gradient(to right,#FF4500, #FFA500, #FFDAB9)
+}
+.App{
+    margin-top:0px;
+    margin-left:0px;
+    /* background-image:linear-gradient(to right,#FF4500, #FFA500) */
+}

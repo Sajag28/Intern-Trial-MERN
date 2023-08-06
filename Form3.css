@@ -1,0 +1,63 @@
+.formarea{
+    padding-top:50px;
+    margin-left:400px;
+    height:800px;
+    width:800px;
+    
+}
+input{
+    width:200px;
+}
+button{
+    width:500px;
+}
+#id4{
+    margin-top:10px;
+}
+.background-orange{
+    background-color:orange;
+}
+.background-green{
+    background-color:green;
+}
+.background-blue{
+    background-color:blue;
+}
+#for1{
+    height:540px;
+    width:800px;
+    border: 10px outset black;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.7);
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.7);
+
+
+    border-radius:30px;
+    backround-color:white;
+
+}
+Label{
+    margin-top:20px;
+    margin-bottom:20px;
+}
+TextArea{
+    width:600px;
+    background-color:#453B2F;
+    border-radius:40px;}
+
+button{
+    width:780px;
+    border-radius:40px;
+    font-family: 'Agdasima', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+    font-variant:small-caps;
+    font-size:20px;
+    
+
+}
+span{
+    font-family: 'Agdasima', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+    font-variant:small-caps;
+    font-size:20px;
+
+}
